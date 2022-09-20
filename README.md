@@ -2,6 +2,10 @@
 
 CRUD grocery list
 
+[Live Demo](https://christy313.github.io/react15-project10)
+
+![](./public/10-grocery-bud.gif)
+
 ## File structure
 
 ```
